@@ -1,0 +1,11 @@
+<data>
+    <user>James</user>
+    <PC>DESKTOP-OPPNOOI</PC>
+    <process name="Process Name">
+        <time>
+            <start>15:09:44</start>
+            <end>15:09:51</end>
+            <internal>0:00:07</internal>
+        </time>
+        <stepgroup><step No="1"><sub_no>1</sub_no><description>converting tiff to tif with multi resolution</description><status>multi-resolution success</status></step><step No="2"><sub_no>1</sub_no><description>converting tiff to tif with multi resolution</description><status>multi-resolution success</status></step><step No="3"><sub_no>1</sub_no><description>converting tiff to tif with multi resolution</description><status>multi-resolution success</status></step><step No="4"><sub_no>1</sub_no><description>converting tiff to tif with multi resolution</description><status>multi-resolution success</status></step><step No="5"><sub_no>1</sub_no><description>converting tiff to tif with multi resolution</description><status>multi-resolution success</status></step></stepgroup></process>
+</data>

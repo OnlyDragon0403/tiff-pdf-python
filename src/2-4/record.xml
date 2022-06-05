@@ -1,0 +1,11 @@
+<data>
+    <user>James</user>
+    <PC>DESKTOP-OPPNOOI</PC>
+    <process name="Process Name">
+        <time>
+            <start>11:20:31</start>
+            <end>11:20:33</end>
+            <internal>0:00:02</internal>
+        </time>
+        <stepgroup><step No="1"><sub_no>1</sub_no><description>saving processed image into file</description><status>saving image success</status></step><step No="1"><sub_no>2</sub_no><description>loading processed image into list</description><status>filling in list success</status></step><step No="2"><sub_no>1</sub_no><description>saving processed image into file</description><status>saving image success</status></step><step No="2"><sub_no>2</sub_no><description>loading processed image into list</description><status>filling in list success</status></step><step No="3"><sub_no>1</sub_no><description>saving processed image into file</description><status>saving image success</status></step><step No="3"><sub_no>2</sub_no><description>loading processed image into list</description><status>filling in list success</status></step><step No="4"><sub_no>1</sub_no><description>saving processed image into file</description><status>saving image success</status></step><step No="4"><sub_no>2</sub_no><description>loading processed image into list</description><status>filling in list success</status></step><step No="5"><sub_no>1</sub_no><description>saving processed image into file</description><status>saving image success</status></step><step No="5"><sub_no>2</sub_no><description>loading processed image into list</description><status>filling in list success</status></step></stepgroup></process>
+</data>

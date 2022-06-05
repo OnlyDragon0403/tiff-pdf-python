@@ -1,0 +1,11 @@
+<data>
+    <user>James</user>
+    <PC>DESKTOP-OPPNOOI</PC>
+    <process name="Process Name">
+        <time>
+            <start>11:14:02</start>
+            <end>11:14:05</end>
+            <internal>0:00:03</internal>
+        </time>
+        <stepgroup><step No="1"><sub_no>1</sub_no><description>converting tiff to grayscale image</description><status>convertion success</status></step><step No="2"><sub_no>1</sub_no><description>converting tiff to grayscale image</description><status>convertion success</status></step><step No="3"><sub_no>1</sub_no><description>converting tiff to grayscale image</description><status>convertion success</status></step><step No="4"><sub_no>1</sub_no><description>converting tiff to grayscale image</description><status>convertion success</status></step><step No="5"><sub_no>1</sub_no><description>converting tiff to grayscale image</description><status>convertion success</status></step></stepgroup></process>
+</data>
