@@ -1,1 +1,3 @@
 /py_modules
+.env
+./image
