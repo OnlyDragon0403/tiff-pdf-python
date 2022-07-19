@@ -4,6 +4,9 @@ Created on Mon Jan 24 09:39:29 2022
 
 @author: James
 """
+"""
+convert tiff to jpg project.
+"""
 
 import os
 import re
