@@ -4,6 +4,9 @@ Created on Mon Jan 24 09:39:29 2022
 
 @author: James
 """
+""" 
+ Should make one tiff image with multi layers.
+"""
 
 import os
 import re
