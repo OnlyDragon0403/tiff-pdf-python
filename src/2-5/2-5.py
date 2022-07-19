@@ -14,6 +14,7 @@ Created on Tue Jan 25 16:00:42 2022
 """
 Should get exif info from original tiff images
 Should make one tiff image with multi images.
+Should save exif infos into new tiff image.
 """
 
 import os
