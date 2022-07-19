@@ -6,6 +6,7 @@ Created on Mon Jan 24 09:39:29 2022
 """
 """ 
  Should make one tiff image with multi layers.
+ We can check image layers in Image View.
 """
 
 import os
