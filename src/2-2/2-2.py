@@ -3,6 +3,7 @@
 Created on Mon Jan 24 09:39:29 2022
 
 @author: James
+convertion current color space to True Color RGB color space
 """
 
 import os
